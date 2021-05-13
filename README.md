@@ -1,1 +1,1 @@
-This is a cloud formation file that creates an EC2 instance resource with security group with rules specifying access control. It also allows connection to the EC2 instance using session manager role with session profile that allows login to shell terminal. 
+This is a cloud formation file that creates an EC2 instance resource with security group rules specifying access control mode. It also allows connection to the EC2 instance using session manager role with session profile that allows login to shell terminal. 
